@@ -1,0 +1,24 @@
+.menu {
+height: 100px}
+
+.grid-container {
+display: grid;
+grid-template-columns: auto 800px auto;
+background-color: #E0F6FF;
+
+}
+
+.grid-item {
+text-align: center;
+padding: 15px;
+}
+
+.color-dark {
+background-color: #3E3E3E;
+color: white;
+}
+
+.color-light {
+background-color: white;
+color: black;
+}
